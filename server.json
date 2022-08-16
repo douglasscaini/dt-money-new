@@ -31,6 +31,14 @@
       "type": "outcome",
       "createdAt": "2022-08-16T02:19:05.997Z",
       "id": 4
+    },
+    {
+      "description": "Coca",
+      "price": 7,
+      "category": "Comida",
+      "type": "outcome",
+      "createdAt": "2022-08-16T23:52:17.754Z",
+      "id": 5
     }
   ]
 }
